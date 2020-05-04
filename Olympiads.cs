@@ -46,7 +46,7 @@ namespace TelegramBotHSE
                 },
                 new[]
                 {
-                    new KeyboardButton("Вернуться в главное меню")
+                    new KeyboardButton("Вернуться в главное меню (Элька лучшая)")
                 }
             });
 
